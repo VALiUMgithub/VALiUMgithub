@@ -2,8 +2,12 @@
 ![Purple Sky Profile Header (1)](https://github.com/VALiUMgithub/VALiUMgithub/assets/93570937/d5d14f72-8c43-4e98-bffa-33f3caeca2bf)
 
 
-👋 Hi, I’m Srujan, space time traveler.<br>👀 I’m interested in contributing to this advancing human civilization that will reach some end at a very far future.<br>🌱 I’m currently learning web development.<br>💞 I’m looking to collaborate on interactive web page design and development projects of any kind.<br>📬 How to reach me ...mail me at < srujansamal1@gmail.com ><br>
-- 🌱 Exploring Technical Content Writing.
+- 👋 Hi, I’m Srujan, space time traveler.
+- 👀 I’m interested in contributing to this advancing human civilization that will reach some end at a very far future.
+- 🌱 I’m currently learning React and Next Js.
+- 💞 I’m looking to collaborate on interactive web page design and open source contribution.
+- 📬 How to reach me ...mail me at < srujansamal1@gmail.com ><br>
+- 👣 Exploring Technical Content Writing.
 
 ---
 
