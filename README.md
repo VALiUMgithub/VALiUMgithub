@@ -43,9 +43,9 @@
 ---
 
 ### ✍️ Blog Posts : 
-- [Common C++ Data Structures (with examples)]([https://www.twilio.com/blog/create-rest-apis-java-spring-boot](https://codedamn.com/news/c/common-c-data-structures-with-examples))
-- [Create a Hello World App in React 18 (Complete Guide)]([https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/](https://codedamn.com/news/reactjs/create-a-hello-world-app-in-react-18-complete-guide))
-- [DynamoDB vs MongoDB: Which one to choose and why?]([https://www.sitepoint.com/github-profile-readme/](https://codedamn.com/news/databases/dynamodb-vs-mongodb-which-one-to-choose-and-why))<!-- BLOG-POST-LIST:START -->
+- [Common C++ Data Structures (with examples)](https://codedamn.com/news/c/common-c-data-structures-with-examples)
+- [Create a Hello World App in React 18 (Complete Guide)](https://codedamn.com/news/reactjs/create-a-hello-world-app-in-react-18-complete-guide)
+- [DynamoDB vs MongoDB: Which one to choose and why?](https://codedamn.com/news/databases/dynamodb-vs-mongodb-which-one-to-choose-and-why)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
