@@ -3,6 +3,7 @@
 
 
 👋 Hi, I’m Srujan, space time traveler.<br>👀 I’m interested in contributing to this advancing human civilization that will reach some end at a very far future.<br>🌱 I’m currently learning web development.<br>💞 I’m looking to collaborate on interactive web page design and development projects of any kind.<br>📬 How to reach me ...mail me at < srujansamal1@gmail.com ><br>
+- 🌱 Exploring Technical Content Writing.
 
 ---
 
@@ -34,6 +35,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=VALiUMgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VALiUMgithub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VALiUMgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+### ✍️ Blog Posts : 
+- [Common C++ Data Structures (with examples)]([https://www.twilio.com/blog/create-rest-apis-java-spring-boot](https://codedamn.com/news/c/common-c-data-structures-with-examples))
+- [Create a Hello World App in React 18 (Complete Guide)]([https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/](https://codedamn.com/news/reactjs/create-a-hello-world-app-in-react-18-complete-guide))
+- [DynamoDB vs MongoDB: Which one to choose and why?]([https://www.sitepoint.com/github-profile-readme/](https://codedamn.com/news/databases/dynamodb-vs-mongodb-which-one-to-choose-and-why))<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
