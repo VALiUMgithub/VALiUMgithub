@@ -1,5 +1,9 @@
 # 🎀 About Me:
+
+<img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
+
 ![Purple Sky Profile Header (1)](https://github.com/VALiUMgithub/VALiUMgithub/assets/93570937/d5d14f72-8c43-4e98-bffa-33f3caeca2bf)
+
 
 
 - 👋 Hi, I’m Srujan, space time traveler.
@@ -12,7 +16,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srujan-samal) 
+<a href="https://twitter.com/samal_srujan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srujan-samal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ---
 
@@ -35,8 +39,7 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VALiUMgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 📈 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VALiUMgithub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VALiUMgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -50,7 +53,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
