@@ -39,17 +39,17 @@
 
 ---
 
-# 📈 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=VALiUMgithub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VALiUMgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ Blog Posts : 
+## ✍️ Blog Posts : 
 - [Common C++ Data Structures (with examples)](https://codedamn.com/news/c/common-c-data-structures-with-examples)
 - [Create a Hello World App in React 18 (Complete Guide)](https://codedamn.com/news/reactjs/create-a-hello-world-app-in-react-18-complete-guide)
 - [DynamoDB vs MongoDB: Which one to choose and why?](https://codedamn.com/news/databases/dynamodb-vs-mongodb-which-one-to-choose-and-why)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+# 📈 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=VALiUMgithub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VALiUMgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
