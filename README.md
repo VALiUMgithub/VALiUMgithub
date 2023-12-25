@@ -6,7 +6,11 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+to+Open+Source;Full+Stack+Development;Devops+and+Cloud+Computing)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Love+to+Open+Source;Full-stack%20web%20developer;Devops%20and%20Cloud%20Computing;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 
 - 👋 I’m an MCA first year student at Pondicherry University.
