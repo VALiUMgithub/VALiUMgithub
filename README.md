@@ -4,6 +4,9 @@
 
 ![Purple Sky Profile Header (1)](https://github.com/VALiUMgithub/VALiUMgithub/assets/93570937/d5d14f72-8c43-4e98-bffa-33f3caeca2bf)
 
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Love+to+Open+Source;Full+Stack+Development;Devops+and+Cloud+Computing)](https://git.io/typing-svg)
 
 
 - 👋 I’m an MCA first year student at Pondicherry University.
