@@ -13,7 +13,7 @@
 </p>
 
 
-- 👋 I’m an MCA first year student at Pondicherry University.
+- 👋 I’m a full-stack software engineer.
 - 👀 I’m interested in contributing to this advancing human civilization that will reach some end at a very far future.
 - 🌱 I’m currently learning React and Next Js.
 - 💞 I’m looking to collaborate on interactive web page design and open source contribution.
